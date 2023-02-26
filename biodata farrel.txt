@@ -2,4 +2,4 @@ Biodata me..
   nama = Alden Farrel Edria
   Umur = 19 tahun
   Pekerjaan = back-end development
-  status pernikahan = false
+  Hobi = buat animasi
