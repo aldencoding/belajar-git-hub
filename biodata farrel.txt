@@ -1,0 +1,5 @@
+Biodata me..
+  nama = Alden Farrel Edria
+  Umur = 19 tahun
+  Pekerjaan = back-end development
+  
