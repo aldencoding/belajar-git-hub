@@ -3,3 +3,5 @@ Biodata me..
   Umur = 19 tahun
   Pekerjaan = back-end development
   Hobi = buat animasi
+
+ya begitualah...
